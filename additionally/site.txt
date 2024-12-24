@@ -1,0 +1,17 @@
+
+Подсказка с картинкой:
+<inline class="container"><span class="hover-text"  >ТЕКСТ ДЛЯ НАВЕДЕНИЯ</span><inline class="tooltip"><!--подсказка правее --><img src="ССЫЛКА НА ФОТО" alt="Фото" width="209px" class="right"></inline></inline>
+
+для кнопки телепорта <p>
+      <a href="#" onclick="scrollToElement('story')">
+        <span>Перейти к элементу</span>
+      </a>
+    </p> 
+и вторая часть <a id="story" href="../additionally/story.html" style="font-weight: bold; font-size: 20px; text-decoration: underline;" class="my-font1" >Сюжет игры</a> 
+
+
+<nav> Пятая по счёту игра в серии Grand Theft Auto.Действие игры разворачивается в вымышленном штате Сан-Андреас. Главный герой — <a id="story" href="../additionally/story.html" style="font-weight: bold; font-size: 20px; text-decoration: underline;" class="my-font1" > Карл «Си-Джей» Джонсон</a>, который возвращается домой после убийства своей матери и узнаёт, что его банда потеряла большую часть своей территории.  </nav>
+
+<div><span>ТЕКСТ СЛЕВА</span><span><span class="container" style="display: inline;"><span class="hover-text"  >ТЕКСТ ДЛЯ НАВЕДЕНИЯ</span><span style="display: inline;" class="tooltip"><!--подсказка правее --><img src="../siteCSS/images/1680503744_pushinka-top-p-avatarki-sidzhei-avatarka-krasivo-53.jpg" alt="Фото" width="209px" class="right"></span></span></span><span>ТЕКСТ СПРАВА</span></div>
+
+ кнопка   <nav><a id="story" href="../additionally/codes.html" style="font-weight: bold; font-size: 20px; text-decoration: underline;" class="my-font1" > Больше чит-кодов</a> </nav>  
